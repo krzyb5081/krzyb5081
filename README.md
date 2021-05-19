@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krzysiek (Chris)
-- 👀 I’m interested in programming, making making music
+- 👀 I’m interested in programming, making music
 - 🌱 I’m currently learning java Spring
 - 📫 You can reach me on discord: krzyb5081#7594
 
