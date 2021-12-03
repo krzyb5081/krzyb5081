@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Krzysiek (Christopher)
 - 👀 I’m interested in programming, making music
 - 🌱 I’m currently learning java Spring
-- Currently I am working on my game engine
 - - 📫 You can reach me on discord: krzyb5081#7594
 
 <!---
