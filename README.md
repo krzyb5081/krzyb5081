@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krzysiek (Christopher)
+- 👋 Welcome on my github
 - 👀 I’m interested in programming, making music
 - 🌱 I’m currently learning java Spring
 - - 📫 You can reach me on discord: krzyb5081#7594
