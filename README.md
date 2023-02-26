@@ -1,7 +1,7 @@
 - 👋 Welcome on my github
 - 👀 I’m interested in programming, making music
 - 🌱 I’m currently learning java Spring
-- - 📫 You can reach me on discord: krzyb5081#7594
+- - 📫 Discord: krzyb5081#7594
 - - 📫 E-mail adress: krzysztof.sobczak5081@gmail.com
 
 <!---
